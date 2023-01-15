@@ -1,0 +1,23 @@
+{
+  "item.brass_process.candy":"candy",
+  "block.brass_process.zinc_ore_block":"zinc_ore_block",
+  "item.brass_process.zinc_ingot":"zinc_ingot",
+  "item.brass_process.raw_zinc":"raw_zinc",
+  "item.brass_process.zinc_pickaxe":"zinc_pickaxe",
+  "item.brass_process.zinc_hoe":"zinc_hoe",
+  "item.brass_process.zinc_axe":"zinc_axe",
+  "item.brass_process.zinc_shovel":"zinc_shovel",
+  "item.brass_process.zinc_sword":"zinc_sword",
+  "item.brass_process.brass_ingot":"brass_ingot",
+  "item.brass_process.brass_pickaxe":"brass_pickaxe",
+  "item.brass_process.brass_hoe":"brass_hoe",
+  "item.brass_process.brass_axe":"brass_axe",
+  "item.brass_process.brass_shovel":"brass_shovel",
+  "item.brass_process.brass_sword":"brass_sword",
+  "enchantment.brass_process.wither": "wither",
+  "item.brass_process.brass_material_helmet": "brass_material_helmet",
+  "item.brass_process.brass_material_chestplate": "brass_material_chestplate",
+  "item.brass_process.brass_material_leggings": "brass_material_leggings",
+  "item.brass_process.brass_material_boots": "brass_material_boots",
+  "itemGroup.brass_process.brass_process":"brass_process"
+}

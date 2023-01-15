@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WW ",
+    "R  ",
+    "   "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:copper_ingot"
+    },
+    "R": {
+      "item": "brass_process:zinc_ingot"
+    }
+  },
+  "result": {
+    "item": "brass_process:brass_ingot",
+    "count": 1
+  }
+}

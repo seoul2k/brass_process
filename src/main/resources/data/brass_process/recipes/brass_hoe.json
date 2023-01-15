@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WW ",
+    " R ",
+    " R "
+  ],
+  "key": {
+    "W": {
+      "item": "brass_process:brass_ingot"
+    },
+    "R": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "brass_process:brass_hoe",
+    "count": 1
+  }
+}

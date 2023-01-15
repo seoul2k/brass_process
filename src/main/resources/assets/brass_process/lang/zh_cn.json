@@ -1,0 +1,23 @@
+{
+  "item.brass_process.candy":"糖果",
+  "block.brass_process.zinc_ore_block":"锌矿石",
+  "item.brass_process.zinc_ingot":"锌锭",
+  "item.brass_process.raw_zinc":"粗锌",
+  "item.brass_process.zinc_pickaxe":"锌镐",
+  "item.brass_process.zinc_hoe":"锌锄",
+  "item.brass_process.zinc_axe":"锌斧",
+  "item.brass_process.zinc_shovel":"锌铲",
+  "item.brass_process.zinc_sword":"锌剑",
+  "item.brass_process.brass_ingot":"黄铜锭",
+  "item.brass_process.brass_pickaxe":"黄铜镐",
+  "item.brass_process.brass_hoe":"黄铜锄",
+  "item.brass_process.brass_axe":"黄铜斧",
+  "item.brass_process.brass_shovel":"黄铜铲",
+  "item.brass_process.brass_sword":"黄铜剑",
+  "enchantment.brass_process.wither": "凋零",
+  "item.brass_process.brass_material_helmet": "黄铜头盔",
+  "item.brass_process.brass_material_chestplate": "黄铜胸甲",
+  "item.brass_process.brass_material_leggings": "黄铜护腿",
+  "item.brass_process.brass_material_boots": "黄铜鞋子",
+  "itemGroup.brass_process.brass_process":"黄铜工艺"
+}

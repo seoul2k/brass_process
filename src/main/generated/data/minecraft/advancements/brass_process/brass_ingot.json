@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:brass_process/root",
+  "display": {
+    "icon": {
+      "item": "brass_process:brass_ingot"
+    },
+    "title": {
+      "text": "合金"
+    },
+    "description": {
+      "text": "获得黄铜"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "got_brass_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "brass_process:brass_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "got_brass_ingot"
+    ]
+  ]
+}

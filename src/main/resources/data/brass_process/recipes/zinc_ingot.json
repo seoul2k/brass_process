@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "result": "brass_process:zinc_ingot",
+  "ingredient": {
+    "item": "brass_process:raw_zinc"
+  },
+  "experience": 20,
+  "cookingtime": 400
+}

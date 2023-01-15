@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "brass_process:zinc_ingot"
+    },
+    "title": {
+      "text": "锌锭？锌锭！"
+    },
+    "description": {
+      "text": "获得锌锭"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
+  },
+  "criteria": {
+    "got_zinc_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "brass_process:zinc_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "got_zinc_ingot"
+    ]
+  ]
+}
